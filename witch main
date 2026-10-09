@@ -1,0 +1,18 @@
+*   [33m6a49017[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Merge pull request #4 from ruheveiehebejem/feature/css-architecture-states
+[31m|[m[32m\[m  
+[31m|[m * [33me9845ce[m[33m ([m[1;31morigin/feature/css-architecture-states[m[33m, [m[1;32mfeature/css-architecture-states[m[33m)[m refactor: organize CSS variables and states
+[31m|[m[31m/[m  
+*   [33mddee1c1[m Merge pull request #3 from ruheveiehebejem/feature/form-modal-validation
+[33m|[m[34m\[m  
+[33m|[m * [33m00d792a[m[33m ([m[1;31morigin/feature/form-modal-validation[m[33m, [m[1;32mfeature/form-modal-validation[m[33m)[m feat: add order form modal and validation
+[33m|[m[33m/[m  
+*   [33m72fbe50[m Merge pull request #2 from ruheveiehebejem/feature/html-css-start-page
+[35m|[m[36m\[m  
+[35m|[m * [33m4d7f15f[m[33m ([m[1;31morigin/feature/html-css-start-page[m[33m, [m[1;32mfeature/html-css-start-page[m[33m)[m feat: add semantic HTML structure and base CSS styles
+[35m|[m[35m/[m  
+* [33mf107484[m docs: add GitHub Pages link
+*   [33m03019c0[m Merge pull request #1 from ruheveiehebejem/feature/start-page
+[1;31m|[m[1;32m\[m  
+[1;31m|[m * [33me12f388[m[33m ([m[1;31morigin/feature/start-page[m[33m, [m[1;32mfeature/start-page[m[33m)[m feat: add project description section
+[1;31m|[m[1;31m/[m  
+* [33mbfcc5be[m docs: add project status to README
